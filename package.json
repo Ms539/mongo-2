@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "name": "checkpoint-mongo2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Mamoun",
+  "license": "ISC",
+  "description": ""
+}
